@@ -1,5 +1,5 @@
 var readline = require('readline');
-var OSinfo = require('../modules/OSinfo');
+var OSinfo = require('./modules/OSinfo');
 
 var rl = readline.createInterface({
     input: process.stdin,

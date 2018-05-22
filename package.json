@@ -1,0 +1,19 @@
+{
+  "name": "zadanie_13_5",
+  "version": "1.0.0",
+  "description": "Nauka npm i node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "npm",
+    "node"
+  ],
+  "author": "Krzysztof Piekarz",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.3.0"
+  }
+}
