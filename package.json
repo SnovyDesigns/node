@@ -1,0 +1,26 @@
+{
+  "name": "13",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SnovyDesigns/node.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SnovyDesigns/node/issues"
+  },
+  "homepage": "https://github.com/SnovyDesigns/node#readme",
+  "dependencies": {
+    "colors": "^1.3.0",
+    "formidable": "^1.2.1",
+    "nodemon": "^1.17.5"
+  }
+}
